@@ -4,7 +4,7 @@ A mystical, space-themed Tic Tac Toe game with a unique disappearing mechanic. B
 
 ![Moon Chess Banner](https://img.shields.io/badge/Status-Live-brightgreen) ![React](https://img.shields.io/badge/React-18-blue) ![PixiJS](https://img.shields.io/badge/PixiJS-8-red)
 
-## 🎮 [Play Now](https://vawndyu.github.io/moon-chess)
+## 🎮 [Play Now](https://vawndyu.github.io/Moon-Chess)
 
 ---
 
@@ -128,13 +128,13 @@ export const GlowConfig = {
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu Screenshot](screenshots/main_menu.png)
+![Main Menu Screenshot](public/screenshots/main_menu.png)
 
 ### Gameplay
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](public/screenshots/gameplay.png)
 
 ### Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile Screenshot](public/screenshots/mobile.png)
 
 ---
 
