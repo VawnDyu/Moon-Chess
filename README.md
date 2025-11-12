@@ -53,8 +53,8 @@ Each player can only have **2 pieces** on the board at a time. When you place yo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/moon-chess.git
-cd moon-chess
+git clone https://github.com/VawnDyu/Moon-Chess.git
+cd Moon-Chess
 ```
 
 2. Install dependencies
