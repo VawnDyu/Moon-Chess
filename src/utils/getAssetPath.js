@@ -1,0 +1,1 @@
+export const getAssetPath = (path) => `${import.meta.env.BASE_URL}${path}`;
