@@ -128,13 +128,13 @@ export const GlowConfig = {
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu Screenshot](public\screenshots\main_menu.png)
+![Main Menu Screenshot](screenshots/main_menu.png)
 
 ### Gameplay
-![Gameplay Screenshot](public\screenshots\gameplay.png)
+![Gameplay Screenshot](screenshots/gameplay.png)
 
 ### Mobile View
-![Mobile Screenshot](public\screenshots\mobile.png)
+![Mobile Screenshot](screenshots/mobile.png)
 
 ---
 
